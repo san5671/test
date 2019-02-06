@@ -1,0 +1,43 @@
+#
+# DO NOT DELETE
+
+obj/ais140ExternalSensor.o: /home/smarikukala/work/desi-sw/vtp/libs/vtp-app/vtpApp.h
+obj/ais140ExternalSensor.o: /home/smarikukala/work/desi-sw/vtp/libs/common/vtpdef.h
+obj/ais140ExternalSensor.o: /home/smarikukala/work/desi-sw/vtp/libs/common/logger.h
+obj/ais140ExternalSensor.o: /home/smarikukala/work/desi-sw/vtp/libs/common/timers.h
+obj/ais140ExternalSensor.o: /home/smarikukala/work/desi-sw/vtp/libs/common/blockingMemoryPool.h
+obj/ais140ExternalSensor.o: /home/smarikukala/work/desi-sw/vtp/libs/common/blockingQueue.h
+obj/ais140ExternalSensor.o: /home/smarikukala/work/desi-sw/vtp/libs/common/timeUtils.h
+obj/ais140ExternalSensor.o: /home/smarikukala/work/desi-sw/vtp/libs/common/queue.h
+obj/ais140ExternalSensor.o: /home/smarikukala/work/desi-sw/vtp/libs/ipc/json.h
+obj/ais140ExternalSensor.o: /home/smarikukala/work/desi-sw/vtp/libs/ipc/mqttMessageHandler.h
+obj/ais140ExternalSensor.o: /home/smarikukala/work/desi-sw/vtp/libs/ipc/webSvcs.h
+obj/ais140ExternalSensor.o: /home/smarikukala/work/desi-sw/vtp/libs/ipc/scgi.h
+obj/ais140ExternalSensor.o: ais140ExternalSensor.h
+obj/ais140ExternalSensor.o: ais140ExternalSensorTopics.h
+obj/ais140ExternalSensor.o: /home/smarikukala/work/desi-sw/vtp/include/vtpTopics.h
+obj/ais140ExternalSensor.o: /home/smarikukala/work/desi-sw/vtp/libs/common/pcgUtils.h
+obj/ais140ExternalSensor.o: app_interface.h /usr/include/stdint.h
+obj/ais140ExternalSensor.o: /usr/include/features.h
+obj/ais140ExternalSensor.o: /usr/include/stdc-predef.h
+obj/ais140ExternalSensor.o: /usr/include/sys/cdefs.h
+obj/ais140ExternalSensor.o: /usr/include/bits/wordsize.h
+obj/ais140ExternalSensor.o: /usr/include/gnu/stubs.h
+obj/ais140ExternalSensor.o: /usr/include/bits/wchar.h
+obj/ais140ExternalSensor.o: /usr/include/sys/select.h
+obj/ais140ExternalSensor.o: /usr/include/bits/types.h
+obj/ais140ExternalSensor.o: /usr/include/bits/typesizes.h
+obj/ais140ExternalSensor.o: /usr/include/bits/select.h
+obj/ais140ExternalSensor.o: /usr/include/bits/sigset.h /usr/include/time.h
+obj/ais140ExternalSensor.o: /usr/include/bits/time.h /usr/include/sys/time.h
+obj/ais140ExternalSensor.o: /usr/include/sys/types.h /usr/include/endian.h
+obj/ais140ExternalSensor.o: /usr/include/bits/endian.h
+obj/ais140ExternalSensor.o: /usr/include/bits/byteswap.h
+obj/ais140ExternalSensor.o: /usr/include/bits/byteswap-16.h
+obj/ais140ExternalSensor.o: /usr/include/sys/sysmacros.h
+obj/ais140ExternalSensor.o: /usr/include/bits/pthreadtypes.h
+obj/ais140ExternalSensor.o: /usr/include/unistd.h
+obj/ais140ExternalSensor.o: /usr/include/bits/posix_opt.h
+obj/ais140ExternalSensor.o: /usr/include/bits/environments.h
+obj/ais140ExternalSensor.o: /usr/include/bits/confname.h
+obj/ais140ExternalSensor.o: /usr/include/getopt.h
